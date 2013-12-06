@@ -1,0 +1,135 @@
+
+/**************************************************/
+/******************PARTICIPA BR********************/
+/**************************************************/
+
+/* ICONS PANEL */
+
+.controller-profile_editor a.control-panel-edit-profile{ background-image: url(painel/edit-profile.png) }
+.controller-profile_editor a.control-panel-edit-location{ background-image: url(painel/set-geolocation.png) }
+.controller-profile_editor a.control-panel-todo{ background-image: url(painel/editpaste.png) }
+.controller-profile_editor a.control-panel-blocks{ background-image: url(painel/blocks.png) }
+.controller-profile_editor a.control-panel-design-editor{ background-image: url(painel/preferences-desktop-wallpaper.png) }
+.controller-profile_editor a.control-panel-header-and-footer{ background-image: url(painel/header-footer.png) }
+.controller-profile_editor a.control-panel-cms{ background-image: url(painel/system-file-manager.png) }
+.controller-profile_editor a.control-panel-blog{ background-image: url(painel/edit-profile-enterprise.png) }
+.controller-profile_editor a.control-panel-change-password{ background-image: url(painel/password.png) }
+.controller-profile_editor a.control-panel-friends{ background-image: url(painel/contact.png) }
+.controller-profile_editor a.control-panel-groups{ background-image: url(painel/system-users.png) }
+.controller-profile_editor a.control-panel-manage-spam{ background-image: url(painel/system-users.png) }
+.controller-profile_editor a.control-panel-manage-spam{ background-image: url(painel/mail-mark-junk.png) }
+
+
+
+
+/******************SMALL ICONS********************/
+
+.faltando-classe      { background-image: url(outras/16x16/apps/gallery.gif) }
+.faltando-classe      { background-image: url(outras/16x16/apps/observatory.gif) }
+.faltando-classe      { background-image: url(outras/16x16/apps/tags.gif) }
+.faltando-classe      { background-image: url(outras/16x16/actions/invite-friend.gif) }
+
+
+.icon-edit      { background-image: url(outras/16x16/apps/text-editor.png) }
+.icon-home      { background-image: url(outras/16x16/actions/go-home.gif) }
+.icon-new,
+.icon-suggest   { background-image: url(outras/16x16/actions/filenew.gif) }
+.icon-close     { background-image: url(outras/16x16/actions/gtk-cancel.gif) }
+.icon-newfolder { background-image: url(outras/16x16/actions/folder-new.gif) }
+.icon-folder    { background-image: url(outras/16x16/places/folder.png) }
+.icon-parent-folder { background-image: url(outras/16x16/places/folder_home.png) }
+.icon-newblog   { background-image: url(outras/16x16/apps/text-editor.png) }
+.icon-blog      { background-image: url(outras/16x16/apps/text-editor.png) }
+/*.icon-open    { background-image: url(folder-open.gif) } UNUSED*/
+/*.icon-cms     { background-image: url(abiword_48.png) } UNUSED*/
+.icon-save      { background-image: url(outras/16x16/actions/filesave.gif) }
+.icon-send      { background-image: url(outras/16x16/actions/stock_mail-forward.gif) }
+.icon-cancel    { background-image: url(outras/16x16/actions/gtk-cancel.gif) }
+.icon-person    { background-image: url(outras/16x16/apps/system-config-users.png) }
+.icon-product   { background-image: url(outras/16x16/mimetypes/package.png) }
+.icon-delete    { background-image: url(outras/16x16/places/user-trash.png) }
+/*.icon-find    { background-image: url(noosfero-find.png) } UNUSED*/
+.icon-back      { background-image: url(outras/16x16/actions/back.gif) }
+.icon-next      { background-image: url(outras/16x16/actions/go-next.gif) }
+.icon-add       { background-image: url(outras/16x16/actions/add.gif) }
+.icon-remove    { background-image: url(outras/16x16/actions/gtk-remove.png) }
+.icon-more      { background-image: url(outras/16x16/actions/add.gif) }
+.icon-up        { background-image: url(outras/16x16/actions/go-up.gif) }
+.icon-down      { background-image: url(outras/16x16/actions/go-down.gif) }
+.icon-left      { background-image: url(outras/16x16/actions/go-previous.gif) }
+.icon-right     { background-image: url(outras/16x16/actions/go-next.gif) }
+.icon-up-disabled    { background-image: url(outras/16x16/actions/go-up.gif); opacity: 0.25; filter:alpha(opacity=25); }
+.icon-down-disabled  { background-image: url(outras/16x16/actions/go-down.gif); opacity: 0.25; filter:alpha(opacity=25); }
+.icon-left-disabled  { background-image: url(outras/16x16/actions/go-previous.gif); opacity: 0.25; filter:alpha(opacity=25); }
+.icon-right-disabled { background-image: url(outras/16x16/actions/go-next.gif); opacity: 0.25; filter:alpha(opacity=25); }
+.icon-up-red    { background-image: url(outras/16x16/actions/go-up-red.png) }
+.icon-forward   { background-image: url(outras/16x16/actions/go-next.gif) }
+.icon-search    { background-image: url(outras/16x16/actions/search.gif) }
+.icon-ok        { background-image: url(outras/16x16/actions/media-playback-start.gif) }
+.icon-login     { background-image: url(outras/16x16/actions/log-in.png) }
+.icon-help      { background-image: url(outras/16x16/apps/gnome-help.png) }
+.icon-firefox   { background-image: url(firefox-24x24.gif) }
+.icon-help32on  { background-image: url(outras/32x32/apps/gnome-help.png) }
+.icon-help32off { background-image: url(outras/32x32/apps/gnome-help-red.png) }
+.icon-spread    { background-image: url(outras/16x16/actions/spread.png) }
+.icon-todo            { background-image: url(outras/16x16/actions/stock_paste.gif) }
+.icon-eyes            { background-image: url(outras/16x16/actions/find.png) }
+/*.icon-menu-         { background-image: url(menu-without-ico-HC.gif) }*/
+.icon-menu-home       { background-image: url(outras/16x16/actions/go-home.gif) }
+/*.icon-menu-blog     { background-image: url(blog-HC.gif) } UNUSED*/
+/*.icon-menu-album    { background-image: url(album-HC.gif) } UNUSED*/
+.icon-menu-product    { background-image: url(outras/16x16/mimetypes/package.png) }
+.icon-menu-enterprise { background-image: url(outras/16x16/actions/go-home.gif) }
+.icon-menu-community  { background-image: url(outras/16x16/apps/system-config-users.png) }
+/*.icon-menu-edit     { background-image: url(edit-HC.gif) } UNUSED */
+.icon-menu-ctrl-panel { background-image: url(outras/16x16/categories/preferences-desktop.png) }
+.icon-menu-admin      { background-image: url(outras/16x16/categories/preferences-system.png) }
+.icon-menu-my-groups  { background-image: url(outras/16x16/apps/system-config-users.png) }
+.icon-menu-login      { background-image: url(outras/16x16/actions/log-in.png) }
+.icon-menu-logout     { background-image: url(outras/16x16/actions/log-out.png) }
+.icon-menu-search     { background-image: url(outras/16x16/actions/search.gif) }
+/*.icon-menu-ed-design { background-image: url(edit-design-HC.gif) } UNUSED */
+.icon-menu-events     { background-image: url(outras/16x16/mimetypes/stock_calendar.png) }
+.icon-event           { background-image: url(outras/16x16/mimetypes/stock_calendar.png) }
+.icon-newevent        { background-image: url(outras/16x16/mimetypes/stock_calendar.png) }
+.icon-menu-articles   { background-image: url(outras/16x16/apps/text-editor.png) }
+/*.icon-menu-comments { background-image: url(blog-HC.gif) } UNUSED */
+.icon-menu-people     { background-image: url(outras/16x16/apps/user.png) }
+.icon-menu-mail       { background-image: url(outras/16x16/apps/email.png) }
+.icon-upload-file     { background-image: url(outras/16x16/actions/filesave.gif) }
+.icon-newupload-file  { background-image: url(outras/16x16/actions/filesave.gif) }
+.icon-slideshow       { background-image: url(outras/16x16/mimetypes/x-office-presentation.png) }
+.icon-photos          { background-image: url(outras/16x16/devices/camera-photo.png) }
+
+.icon-text-html       { background-image: url(outras/16x16/mimetypes/text-html.png) }
+.icon-text-plain      { background-image: url(outras/16x16/mimetypes/text-x-generic.png) }
+.icon-image-svg-xml   { background-image: url(outras/16x16/mimetypes/image-x-generic.png) }
+.icon-application-octet-stream { background-image: url(outras/16x16/mimetypes/binary.png) }
+.icon-application-x-gzip       { background-image: url(outras/16x16/mimetypes/gnome-mime-application-x-gzip.png) }
+.icon-application-postscript   { background-image: url(outras/16x16/mimetypes/gnome-mime-application-postscript.png) }
+.icon-application-pdf          { background-image: url(outras/16x16/mimetypes/gnome-mime-application-pdf.png) }
+.icon-application-ogg          { background-image: url(outras/16x16/mimetypes/gnome-mime-application-ogg.png) }
+.icon-video, .icon-video-mpeg  { background-image: url(outras/16x16/mimetypes/video-x-generic.png) }
+.icon-application-vnd-oasis-opendocument-text         { background-image: url(outras/16x16/mimetypes/gnome-mime-application-vnd.oasis.opendocument.text.png) }
+.icon-application-vnd-oasis-opendocument-spreadsheet  { background-image: url(outras/16x16/mimetypes/gnome-mime-application-vnd.oasis.opendocument.spreadsheet.png) }
+.icon-application-vnd-oasis-opendocument-presentation { background-image: url(outras/16x16/mimetypes/gnome-mime-application-vnd.oasis.opendocument.presentation.png) }
+
+.icon-media-pause  { background-image: url(outras/16x16/actions/media-playback-pause.png) }
+.icon-media-play   { background-image: url(outras/16x16/actions/media-playback-start.gif) }
+.icon-media-prev   { background-image: url(outras/16x16/actions/media-skip-backward.png) }
+.icon-media-next   { background-image: url(outras/16x16/actions/media-skip-forward.png) }
+.icon-lock	       { background-image: url(outras/16x16/actions/lock.png) }
+.icon-chat         { background-image: url(outras/16x16/apps/internet-group-chat.png); background-repeat: no-repeat }
+.icon-reply        { background-image: url(outras/16x16/actions/mail-reply-sender.png) }
+.icon-newforum     { background-image: url(outras/16x16/apps/internet-group-chat.png) }
+.icon-forum        { background-image: url(outras/16x16/apps/system-users.png) }
+.icon-gallery      { background-image: url(outras/16x16/mimetypes/image-x-generic.png) }
+.icon-newgallery   { background-image: url(outras/16x16/mimetypes/image-x-generic.png) }
+.icon-locale       { background-image: url(outras/16x16/apps/preferences-desktop-locale.png) }
+.icon-user-removed { background-image: url(outras/16x16/actions/gtk-cancel.gif) }
+.icon-user-unknown { background-image: url(outras/16x16/status/dialog-error.png) }
+.icon-alert        { background-image: url(outras/16x16/status/dialog-warning.png) }
+
+/******************LARGE ICONS********************/
+.image-gallery-item .folder  { background-image: url(outras/96x96/places/folder.png) }
+.image-gallery-item .gallery { background-image: url(outras/96x96/mimetypes/image-x-generic.png) }
