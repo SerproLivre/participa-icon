@@ -29,7 +29,7 @@
 .faltando-classe      { background-image: url(outras/16x16/apps/tags.gif) }
 .faltando-classe      { background-image: url(outras/16x16/actions/invite-friend.gif) }
 
-
+.icon-clone     { background-image: url(outras/16x16/actions/clone.png) }
 .icon-edit      { background-image: url(outras/16x16/apps/text-editor.png) }
 .icon-home      { background-image: url(outras/16x16/actions/go-home.gif) }
 .icon-new,
@@ -45,9 +45,9 @@
 .icon-save      { background-image: url(outras/16x16/actions/filesave.gif) }
 .icon-send      { background-image: url(outras/16x16/actions/stock_mail-forward.gif) }
 .icon-cancel    { background-image: url(outras/16x16/actions/gtk-cancel.gif) }
-.icon-person    { background-image: url(outras/16x16/apps/system-config-users.png) }
-.icon-product   { background-image: url(outras/16x16/mimetypes/package.png) }
-.icon-delete    { background-image: url(outras/16x16/places/user-trash.png) }
+.icon-person    { background-image: url(outras/16x16/apps/system-config-users.gif) }
+.icon-product   { background-image: url(outras/16x16/actions/categories.gif) }
+.icon-delete    { background-image: url(outras/16x16/places/user-trash.gif) }
 /*.icon-find    { background-image: url(noosfero-find.png) } UNUSED*/
 .icon-back      { background-image: url(outras/16x16/actions/back.gif) }
 .icon-next      { background-image: url(outras/16x16/actions/go-next.gif) }
@@ -67,31 +67,31 @@
 .icon-search    { background-image: url(outras/16x16/actions/search.gif) }
 .icon-ok        { background-image: url(outras/16x16/actions/media-playback-start.gif) }
 .icon-login     { background-image: url(outras/16x16/actions/log-in.png) }
-.icon-help      { background-image: url(outras/16x16/apps/gnome-help.png) }
+.icon-help      { background-image: url(outras/16x16/apps/gnome-help.gif) }
 .icon-firefox   { background-image: url(firefox-24x24.gif) }
 .icon-help32on  { background-image: url(outras/32x32/apps/gnome-help.png) }
 .icon-help32off { background-image: url(outras/32x32/apps/gnome-help-red.png) }
-.icon-spread    { background-image: url(outras/16x16/actions/spread.png) }
+.icon-spread    { background-image: url(outras/16x16/apps/tags.gif) }
 .icon-todo            { background-image: url(outras/16x16/actions/stock_paste.gif) }
-.icon-eyes            { background-image: url(outras/16x16/actions/find.png) }
+.icon-eyes            { background-image: url(outras/16x16/apps/observatory.gif) }
 /*.icon-menu-         { background-image: url(menu-without-ico-HC.gif) }*/
 .icon-menu-home       { background-image: url(outras/16x16/actions/go-home.gif) }
 /*.icon-menu-blog     { background-image: url(blog-HC.gif) } UNUSED*/
 /*.icon-menu-album    { background-image: url(album-HC.gif) } UNUSED*/
-.icon-menu-product    { background-image: url(outras/16x16/mimetypes/package.png) }
+.icon-menu-product    { background-image: url(outras/16x16/mimetypes/package.gif) }
 .icon-menu-enterprise { background-image: url(outras/16x16/actions/go-home.gif) }
-.icon-menu-community  { background-image: url(outras/16x16/apps/system-config-users.png) }
+.icon-menu-community  { background-image: url(outras/16x16/apps/system-config-users.gif) }
 /*.icon-menu-edit     { background-image: url(edit-HC.gif) } UNUSED */
-.icon-menu-ctrl-panel { background-image: url(outras/16x16/categories/preferences-desktop.png) }
-.icon-menu-admin      { background-image: url(outras/16x16/categories/preferences-system.png) }
-.icon-menu-my-groups  { background-image: url(outras/16x16/apps/system-config-users.png) }
+.icon-menu-ctrl-panel { background-image: url(outras/16x16/categories/preferences-desktop.gif) }
+.icon-menu-admin      { background-image: url(outras/16x16/categories/preferences-system.gif) }
+.icon-menu-my-groups  { background-image: url(outras/16x16/apps/system-config-users.gif) }
 .icon-menu-login      { background-image: url(outras/16x16/actions/log-in.png) }
 .icon-menu-logout     { background-image: url(outras/16x16/actions/log-out.png) }
 .icon-menu-search     { background-image: url(outras/16x16/actions/search.gif) }
 /*.icon-menu-ed-design { background-image: url(edit-design-HC.gif) } UNUSED */
-.icon-menu-events     { background-image: url(outras/16x16/mimetypes/stock_calendar.png) }
-.icon-event           { background-image: url(outras/16x16/mimetypes/stock_calendar.png) }
-.icon-newevent        { background-image: url(outras/16x16/mimetypes/stock_calendar.png) }
+.icon-menu-events     { background-image: url(outras/16x16/mimetypes/stock_calendar.gif) }
+.icon-event           { background-image: url(outras/16x16/mimetypes/stock_calendar.gif) }
+.icon-newevent        { background-image: url(outras/16x16/mimetypes/stock_calendar.gif) }
 .icon-menu-articles   { background-image: url(outras/16x16/apps/text-editor.png) }
 /*.icon-menu-comments { background-image: url(blog-HC.gif) } UNUSED */
 .icon-menu-people     { background-image: url(outras/16x16/apps/user.png) }
@@ -99,7 +99,7 @@
 .icon-upload-file     { background-image: url(outras/16x16/actions/filesave.gif) }
 .icon-newupload-file  { background-image: url(outras/16x16/actions/filesave.gif) }
 .icon-slideshow       { background-image: url(outras/16x16/mimetypes/x-office-presentation.png) }
-.icon-photos          { background-image: url(outras/16x16/devices/camera-photo.png) }
+.icon-photos          { background-image: url(outras/16x16/devices/icone-pqueno-galeria-fotos.png) }
 
 .icon-text-html       { background-image: url(outras/16x16/mimetypes/text-html.png) }
 .icon-text-plain      { background-image: url(outras/16x16/mimetypes/text-x-generic.png) }
@@ -122,7 +122,7 @@
 .icon-chat         { background-image: url(outras/16x16/apps/internet-group-chat.png); background-repeat: no-repeat }
 .icon-reply        { background-image: url(outras/16x16/actions/mail-reply-sender.png) }
 .icon-newforum     { background-image: url(outras/16x16/apps/internet-group-chat.png) }
-.icon-forum        { background-image: url(outras/16x16/apps/system-users.png) }
+.icon-forum        { background-image: url(outras/16x16/actions/invite-friend.gif) }
 .icon-gallery      { background-image: url(outras/16x16/mimetypes/image-x-generic.png) }
 .icon-newgallery   { background-image: url(outras/16x16/mimetypes/image-x-generic.png) }
 .icon-locale       { background-image: url(outras/16x16/apps/preferences-desktop-locale.png) }
