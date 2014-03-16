@@ -132,7 +132,8 @@
 .icon-alert        { background-image: url(outras/16x16/status/report-abuse.png) }
 .icon-clock        { background-image: url(outras/16x16/actions/all-versions.png) }
 
-.icon-set-admin-role          { background-image: url(outras/16x16/apps/user.png) }
+.icon-set-admin-role          { background-image: url(outras/16x16/actions/add.gif) }
+.icon-reset-admin-role        { background-image: url(outras/16x16/apps/user.png) }
 .icon-activate-user           { background-image: url(Tango/16x16/emblems/emblem-system.gif) }
 .icon-deactivate-user         { background-image: url(outras/16x16/emblems/emblem-unreadable.png) }
 
