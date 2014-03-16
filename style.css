@@ -132,6 +132,9 @@
 .icon-alert        { background-image: url(outras/16x16/status/report-abuse.png) }
 .icon-clock        { background-image: url(outras/16x16/actions/all-versions.png) }
 
+.icon-set-admin-role          { background-image: url(outras/16x16/apps/user.png) }
+.icon-deactivate-user         { background-image: url(outras/16x16/emblems/emblem-unreadable.png) }
+
 /******************LARGE ICONS********************/
 .image-gallery-item .folder  { background-image: url(outras/96x96/places/folder.png) }
 .image-gallery-item .gallery { background-image: url(outras/96x96/mimetypes/image-x-generic.png) }
