@@ -33,6 +33,7 @@
 .icon-clone     { background-image: url(outras/16x16/actions/clone.png) }
 .icon-edit      { background-image: url(outras/16x16/apps/text-editor.png) }
 .icon-home      { background-image: url(outras/16x16/actions/go-home.gif) }
+.icon-home-not  { background-image: url(outras/16x16/actions/off-home.png) }
 .icon-new,
 .icon-suggest   { background-image: url(outras/16x16/actions/filenew.gif) }
 .icon-close     { background-image: url(outras/16x16/actions/gtk-cancel.gif) }
