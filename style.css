@@ -37,8 +37,8 @@
 .icon-new,
 .icon-suggest   { background-image: url(outras/16x16/actions/filenew.gif) }
 .icon-close     { background-image: url(outras/16x16/actions/gtk-cancel.gif) }
-.icon-newfolder { background-image: url(outras/16x16/actions/folder-new.gif) }
-.icon-folder    { background-image: url(outras/16x16/places/folder.png) }
+.icon-newfolder,
+.icon-folder    { background-image: url(outras/16x16/actions/folder-new.gif) }
 .icon-parent-folder { background-image: url(outras/16x16/places/folder_home.png) }
 .icon-newblog   { background-image: url(outras/16x16/apps/text-editor.png) }
 .icon-blog      { background-image: url(outras/16x16/apps/text-editor.png) }
@@ -54,7 +54,7 @@
 .icon-back      { background-image: url(outras/16x16/actions/back.gif) }
 .icon-next      { background-image: url(outras/16x16/actions/go-next.gif) }
 .icon-add       { background-image: url(outras/16x16/actions/add.gif) }
-.icon-remove    { background-image: url(outras/16x16/actions/gtk-remove.png) }
+.icon-remove    { background-image: url(outras/16x16/places/user-trash.gif) }
 .icon-more      { background-image: url(outras/16x16/actions/add.gif) }
 .icon-up        { background-image: url(outras/16x16/actions/go-up.gif) }
 .icon-down      { background-image: url(outras/16x16/actions/go-down.gif) }
